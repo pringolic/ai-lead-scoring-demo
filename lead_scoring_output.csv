@@ -1,0 +1,16 @@
+Rank,Name,Title,Company,Funding_Stage,Location,Published_Relevant_Paper,Propensity_Score
+1,John Miller,Director of Toxicology,BioTechX,Series B,Boston,True,100
+2,Mark Johnson,Head of Safety Assessment,PharmaOne,Series A,Cambridge,True,100
+3,Priya Nair,Director of Safety Sciences,GenLab,Series B,Cambridge,True,100
+4,Laura Martinez,Head of Preclinical Research,TheraWorks,Series B,Boston,True,100
+5,Sophia Adams,Director of Investigative Toxicology,HepatoTech,Series A,San Diego,True,90
+6,Rachel Green,Head of Toxicology,BioNova,Series A,Basel,True,90
+7,Michael Chen,Director of Drug Safety,NeoPharma,Series B,San Francisco,True,90
+8,Sarah Lee,Senior Toxicologist,LiverGen,Series B,UK,True,70
+9,David Brown,Director of Preclinical Safety,OncoLabs,Series A,Boston,False,60
+10,Robert King,Principal Scientist,CellTech,Series A,UK,False,30
+11,Emily Davis,Research Scientist,HealthCore,Seed,UK,False,10
+12,Anna Smith,Junior Scientist,SmallLab,No Funding,Texas,False,0
+13,James Wilson,Senior Scientist,MedCore,Seed,New York,False,0
+14,Kevin Patel,Scientist,EarlyBio,No Funding,India,False,0
+15,Daniel Moore,Research Associate,BioStart,Seed,Canada,False,0
